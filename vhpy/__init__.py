@@ -2,7 +2,7 @@ import math
 
 from . import constants
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 
 
 def get_lat_long(v: float, h: float) -> (float, float):

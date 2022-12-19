@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.3 (2022-12-19)
+Add [LICENSE.md](./LICENSE.md)
+
 ## 0.1.2 (2022-12-19)
 Force-publish new version to pypi.
 
