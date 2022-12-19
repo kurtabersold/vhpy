@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.2 (2022-12-19)
+Force-publish new version to pypi.
+
 ## 0.1.1 (2022-12-19)
 
 * Add create-release workflow to create a github release when a new tag is pushed.
