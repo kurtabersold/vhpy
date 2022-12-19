@@ -2,10 +2,16 @@
 name = "vhpy"
 version = "0.1.2"
 description = "V&H (or 'V and H' or 'VH') Coordinates in Python"
+license = "MIT"
 authors = ["Paul Pomerleau", "Kurt Abersold <kurtabersold@gmail.com>"]
 maintainers = ["Kurt Abersold <kurtabersold@gmail.com>"]
 readme = "README.md"
 repository = "https://github.com/kurtabersold/vhpy"
+classifiers = [
+    "Topic :: Communications :: Telephony",
+    "Intended Audience :: Telecommunications Industry",
+    "License :: OSI Approved :: MIT License",
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
