@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vhpy"
-version = "0.1.0"
+version = "0.1.1"
 description = "V&H (or 'V and H' or 'VH') Coordinates in Python"
 authors = ["Paul Pomerleau", "Kurt Abersold <kurtabersold@gmail.com>"]
 maintainers = ["Kurt Abersold <kurtabersold@gmail.com>"]
